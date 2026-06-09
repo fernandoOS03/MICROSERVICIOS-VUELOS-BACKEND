@@ -1,0 +1,24 @@
+# Compilación y Artefactos (Maven)
+**/target/
+**/.mvn/wrapper/maven-wrapper.jar
+
+# Logs y Archivos de Ejecución
+**/logs/
+**/*.log
+
+
+**/.metadata/
+**/.classpath
+**/.project
+**/.settings/
+**/.springBeans
+**/.factorypath
+
+**/.idea/
+**/out/
+
+# Archivos de Sistema
+.DS_Store
+Thumbs.db
+config.bat
+node_modules
